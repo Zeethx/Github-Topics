@@ -1,0 +1,16 @@
+{
+    "type": "module",
+    "name": "githubscraper",
+    "version": "1.0.0",
+    "description": "Issues web scraper for GitHub Topics",
+    "main": "main.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "pdfkit": "^0.13.0"
+    }
+}
